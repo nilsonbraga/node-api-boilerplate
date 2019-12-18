@@ -2,6 +2,8 @@
 
 This is a template project created by [Nilson Braga](http://nilsonbraga.com/)
 
+## Features
+
 [Eslint](https://www.npmjs.com/package/eslint) , [Prettier](https://www.npmjs.com/package/prettier), [Sequelize](https://www.npmjs.com/package/sequelize), [Sequelize-CLI](https://www.npmjs.com/package/sequelize-cli), [Nodemon](https://www.npmjs.com/package/nodemon) configured.
 
 ## Include
