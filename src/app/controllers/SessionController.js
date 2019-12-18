@@ -1,7 +1,7 @@
 import jwt from 'jsonwebtoken';
+import * as Yup from 'yup';
 import User from '../models/User';
 import authConfig from '../../config/auth';
-import * as Yup from 'yup';
 
 class SessionController {
   async store(req, res) {
